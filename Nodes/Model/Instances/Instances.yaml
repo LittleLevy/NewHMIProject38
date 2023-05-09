@@ -13,7 +13,7 @@ Children:
     DataType: Int32
     Value: 0
 - Name: Motor2
-  Type: Motor
+  Type: BaseObjectType
   Children:
   - Name: Variable1
     Type: BaseDataVariableType
